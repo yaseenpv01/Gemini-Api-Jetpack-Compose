@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">geminiapistarterTest</string>
+    <string name="action_go">Go</string>
+    <string name="title">Gemini Test</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Explain This</string>
+    <string name="action_capture">Capture</string>
+    <string name="results_placeholder">Results will be shown here...</string>
+    <string name="fileprovider">com.jerry.jetpack_take_select_photo_image.components.fileprovider</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="camera_preview_placeholder">Camera Preview</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="captured_image">Captured Image</string>
+    <string name="capture_error">Error capturing image</string>
+    <string name="preview_error">Error setting up camera preview</string>
+
+
+
+</resources>
